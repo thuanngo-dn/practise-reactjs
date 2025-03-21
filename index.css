@@ -1,4 +1,4 @@
-/* Thiết lập cơ bản */
+
 body {
     font-family: 'Arial', sans-serif;
     margin: 0;
@@ -7,7 +7,6 @@ body {
     color: #333;
 }
 
-/* Container chính */
 .profile-container {
     max-width: 600px;
     margin: 50px auto;
@@ -18,7 +17,6 @@ body {
     text-align: center;
 }
 
-/* Tiêu đề */
 .profile-name {
     font-size: 24px;
     font-weight: bold;
@@ -26,7 +24,6 @@ body {
     margin-bottom: 10px;
 }
 
-/* Ảnh đại diện */
 .profile-avatar {
     width: 120px;
     height: 120px;
@@ -35,9 +32,8 @@ body {
     margin-bottom: 15px;
 }
 
-/* Thông tin cá nhân */
 .profile-content {
-    text-align: left;
+    text-align: center;
     margin-top: 20px;
 }
 
@@ -70,7 +66,6 @@ body {
     color: #222;
 }
 
-/* Footer */
 .profile-footer {
     margin-top: 20px;
     font-size: 14px;
