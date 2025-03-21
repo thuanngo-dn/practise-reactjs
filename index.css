@@ -97,6 +97,11 @@ body {
     
 }
 
+.profile-list{
+    color: #3498db;
+    font-size: 16px;
+}
+
 .profile-introduce{
     background: #f1f1f1;
     padding: 10px;
